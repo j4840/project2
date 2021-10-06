@@ -1,4 +1,4 @@
-# Vogon personal finance tracker
+#  personal finance tracker
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
